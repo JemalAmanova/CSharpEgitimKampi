@@ -1,0 +1,1 @@
+Bu proje, YouTube'da Murat Yücedağ'ın C# Eğitim Kampı'ndan projelerimi ve alıştırmalarımı içermektedir. İçerik, C# programlamasının temelinden ileri düzey konularına kadar çeşitli konuları kapsamaktadır. Tüm projeler, öğrenme sürecimin bir parçasıdır ve kurs boyunca ilerledikçe düzenli olarak güncellenmektedir.
